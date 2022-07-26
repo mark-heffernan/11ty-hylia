@@ -11,6 +11,8 @@ tags:
   - Bilbao
   - Lezama
 ---
+![g-day-7-last-push-to-Bilbao](https://res.cloudinary.com/dhiparirq/image/upload/v1656174352/wtc/g-day-7-last-push-to-Bilbao.jpg "Last push to Bilbao")
+
 Today was my seventh and last day of walking, from Lezama to Bilbao.
 
 My feet and legs are still very sore but today is the last day of walking. Fewer inclines today and more downhills to Bilbao as Bilbao is surrounded by two mountain ranges with an average elevation of 400m. Walked this last leg on my own and the distance covered approx. 11km.
