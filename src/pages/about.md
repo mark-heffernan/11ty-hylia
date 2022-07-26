@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: About
+title: About Me
 metaTitle: About Me
 metaDesc: About Me
 ---
