@@ -1,19 +1,22 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "home",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
+      "text": "about",
+      "url": "/about"
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "blog",
+      "url": "/blog"
+    },
+    {
+      "text": "github",
+      "url": "https://github.com/mark-heffernan/11ty-hylia",
+      "external": true
     }
   ]
 }
