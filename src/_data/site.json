@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "name": "Walk the Camino",
+  "shortDesc": "This website uses Hylia, a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "url": "https://walkthecamino.travel",
+  "authorEmail": "travel@heffo.biz",
+  "authorHandle": "@heffo",
+  "authorName": "Heffo",
+  "enableThirdPartyComments": true,
+  "paymentPointer": "https://hylia.website",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
