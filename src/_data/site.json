@@ -8,6 +8,6 @@
   "authorName": "Heffo",
   "enableThirdPartyComments": true,
   "paymentPointer": "https://hylia.website",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/images/favicon.ico",
   "maxPostsPerPage": 5
 }
