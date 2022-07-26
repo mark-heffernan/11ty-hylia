@@ -6,10 +6,11 @@ metaDesc: Walking today from Lezama to Bilbao
 socialImage: null
 date: 2022-05-20T18:38:37.127Z
 tags:
-  - walking
-  - camino
+  - blog
   - Bilbao
   - Lezama
+  - camino
+  - walking
 ---
 ![g-day-7-last-push-to-Bilbao](https://res.cloudinary.com/dhiparirq/image/upload/v1656174352/wtc/g-day-7-last-push-to-Bilbao.jpg "Last push to Bilbao")
 
